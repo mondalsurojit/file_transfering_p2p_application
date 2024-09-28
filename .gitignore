@@ -1,0 +1,6 @@
+ft_env/
+__pycache__/
+*.sqlite3
+encoding_algorithm.py
+images.png
+transfer.py 
