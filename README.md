@@ -1,4 +1,4 @@
-# file_transfering_p2p_application
+# file_transfering_p2p_application                                                                          
 this program is a sample python program to trasfer any kind of files (.pdf, .mp4, .jpg etc) using p2p connection.
 #standard libraries used 1)socket 2)OS
 #exteral libraries used 1)tqdm
